@@ -16,8 +16,8 @@ If you'd like to opt-out of this project, please read the instructions underneat
 
 ## Steps
 * [x] Account has at least three projects
-* [ ] Account shows knowledge about how to make incremental commits
-* [ ] The commit graph shows many green squares for the last two weeks (indicating that commits have been pushed regularly)
+* [x] Account shows knowledge about how to make incremental commits
+* [x] The commit graph shows many green squares for the last two weeks (indicating that commits have been pushed regularly)
 
 * [x] GitHub username is professional 
 * [x] Profile picture is a professional image of student
@@ -33,5 +33,5 @@ If you'd like to opt-out of this project, please read the instructions underneat
 ---
 
 ## About the Author
-Manuel Sosi - SOLEYMA - [work email](mailto:manuel.sosi@soleyma.com)
+Manuel Sosi - [SOLEYMA LAB](https://www.soleyma.com) - [work email](mailto:manuel.sosi@soleyma.com)
 > think globally, act within the local variable scope
